@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "build": "tsc",
+        "dev": "webpack-dev-server --mode development"
+    },
+    "devDependencies": {
+        "typescript": "^5.4.0-dev.20231230"
+    }
+}
